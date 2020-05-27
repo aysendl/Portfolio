@@ -96,4 +96,9 @@ p {
     width: 300px; 
     padding:10px;
     text-align: center;
+    color: #ccc;
+}
+
+.portfolio-div>a {
+    color: #ccc;
 }
